@@ -1,4 +1,4 @@
-# CaVβ is a molecular switch controlling the endocytic turnover and trafficking dynamics of L-type calcium channels
+# Ca<\sub>V<\sub>β is a molecular switch controlling the endocytic turnover and trafficking dynamics of L-type calcium channels
 
 Datasets accompanying *CaVβ is a molecular switch controlling the endocytic turnover and trafficking dynamics of L-type calcium channels* by Conrad et al.
 
